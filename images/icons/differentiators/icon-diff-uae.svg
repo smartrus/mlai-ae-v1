@@ -1,0 +1,6 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Map pin — UAE location expertise -->
+  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"
+        stroke="#0ea5e9" stroke-width="1.5" stroke-linejoin="round" fill="rgba(14,165,233,0.08)"/>
+  <circle cx="12" cy="9" r="2.5" stroke="#0ea5e9" stroke-width="1.2" fill="#0ea5e9" opacity="0.8"/>
+</svg>
